@@ -1,0 +1,34 @@
+{
+  "MyFavoriteMoviesList": [
+    {
+      "id": 400535,
+      "title": "Sicario: Day of the Soldado",
+      "overview": "FBI agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the U.S. border.",
+      "poster_path": "OdD7A0LgLXPjqzmfcEl9sTYVPo.jpg"
+    },
+    {
+      "id": 299537,
+      "title": "Captain Marvel",
+      "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+      "poster_path": "2ClU44E07dC6tPYhxJA8hbWDUAQ.jpg"
+    },
+    {
+      "id": 400155,
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "overview": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship's captain, Ericka, who's secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
+      "poster_path": "nbjqedtHhR6HFlAHFMTFGcnoTzq.jpg"
+    },
+    {
+      "id": 460668,
+      "title": "I Feel Pretty",
+      "overview": "A head injury causes a woman to develop an extraordinary amount of confidence and believe she's drop dead gorgeous.",
+      "poster_path": "rmP8b6vxbpK1sPinnUqXHKq0VkT.jpg"
+    },
+    {
+      "id": 351286,
+      "title": "Jurassic World: Fallen Kingdom",
+      "overview": "Several years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar. Claire Dearing, the former park manager and founder of the Dinosaur Protection Group, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
+      "poster_path": "c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg"
+    }
+  ]
+}
