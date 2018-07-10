@@ -43,14 +43,14 @@ public class NetworkUtilities {
 
             try {
                 JSONObject mainObject = new JSONObject(data);
-
-                JSONArray resArray = mainObject.getJSONArray("results"); //Getting the results object
-                for (int i = 0; i < resArray.length(); i++) {
-                    JSONObject jsonObject = resArray.getJSONObject(i);
+                Log.v(TAG,mainObject.toString());
+                JSONArray resultsArray = mainObject.getJSONArray("results"); //Getting the results object
+                for (int i = 0; i < resultsArray.length(); i++) {
+                    JSONObject jsonObject = resultsArray.getJSONObject(i);
                     Movie movie = new Movie(); //New Movie object
                     movie.setID(jsonObject.getInt("id"));
                     movie.setMovieName(jsonObject.getString("title"));
-                    movie.setPoster(jsonObject.getString("overview"));
+                    movie.setMovieDescription(jsonObject.getString("overview"));
                     movie.setPoster(jsonObject.getString("poster_path"));
 
                     /*JSONArray genresList = jsonObject.getJSONArray("genres");
